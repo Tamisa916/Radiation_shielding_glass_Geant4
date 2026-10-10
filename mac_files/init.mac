@@ -1,0 +1,9 @@
+#/run/numberOfThreads 4
+/gun/particle gamma
+/gun/energy 6 MeV
+
+
+
+/run/initialize
+/run/beamon 1000
+

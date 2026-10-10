@@ -1,1 +1,4 @@
-# Radiation_shielding_glass_Geant4
+# G4-Test-Calorimeter
+A Calorimeter detector test for Geant4
+
+Release 1
